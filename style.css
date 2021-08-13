@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  padding: 10px;
+}
+
+.navbar-nav {
+  font-size: 20px;
+}
+
+.nav-item {
+  padding: 0px 15px;
+}
+
+.content {
+  background: rgb(195, 245, 60);
+  display: flex;
+  justify-content: space-evenly;
+  height: 70vh;
+  align-items: center;
+}
+
+.info {
+  display: block;
+  width: 45%;
+}
+
+.homeimage {
+  height: 300px;
+  width: 45%;
+}
